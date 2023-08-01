@@ -8,16 +8,16 @@
 
   <body>
     <div id="shopping-list">
-      <h1>{{ header }}</h1>
+      <h1>{{ header || 'Welcome' }}</h1>
       <input v-model="header" />
     </div>
 
     <script src="https://unpkg.com/vue@3"></script>
     <script>
-      Vue.createApp({
+      const shoppingList = Vue.createApp({
         data() {
           return {
-            header: "View is ready to party",
+            header: "Shopping List App",
           };
         },
       }).mount("#shopping-list");
