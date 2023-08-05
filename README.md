@@ -25,7 +25,7 @@ Projects are completed in this recommended sequence:
 
 # Miscellaneous
 ## Beginner
-1. Visul Studio Code for Vue.js Developers
+1. Visual Studio Code for Vue.js Developers
 2. GraphQL Fundamentals
 3. Web Accesibility Fundamentals
 4. Storybook with Vue.js
@@ -72,7 +72,7 @@ Projects are completed in this recommended sequence:
 1. Smart Async Data with Vue Query
 2. Accessible Sites with Vue.js 3 (A11y)
 
-# Projects
+# Projects (To be done in other repos)
 1. Build a Drag-and-Drop Trello Board with Vue.js (Vue Forge episode 1)
 2. Build a real-world e-commerce app (Vue Forge episode 2)
 3. AI Chat Bot with Vue.js and GPT-4 (Vue Forge episode 3)
